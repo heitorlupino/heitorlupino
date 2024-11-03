@@ -1,8 +1,7 @@
 ## Olá! Eu sou o Heitor Lupino 👋
 
 - 🔭 Estou atualmente desenvolvendo um projeto relacionado ao sistema de avaliação acadêmico e financeiro
-- 🌱 Estudando C#
-- 📫 How to reach me: ...
+- 👨‍💻 Estudando C#
 - 😄 Pronouns: ele/dele
 
 <div>
@@ -17,4 +16,3 @@
   <img align="center" alt="Heitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Heitor-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
-
