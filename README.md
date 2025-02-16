@@ -23,7 +23,7 @@
   <img
     align="left"
     alt="GitHub Stats"
-    height="180px"
+    height="160px"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=heitorlupino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
   />
@@ -31,7 +31,7 @@
   <img
     align="left"
     alt="GitHub Stats"
-    height="180px"
+    height="160px"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorlupino&layout=compact&langs_count=9&theme=dark"
   />
