@@ -19,11 +19,11 @@
 ---
 
 ### 📊 Estatísticas
-<p style="display: flex; align-items: center; justify-content: center;">
+<div style="display: flex; align-items: center; justify-content: center;">
   <img
     align="left"
     alt="GitHub Stats"
-    height="200px"
+    height="180px"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=heitorlupino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
   />
@@ -31,8 +31,8 @@
   <img
     align="left"
     alt="GitHub Stats"
-    height="200px"
+    height="180px"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorlupino&layout=compact&langs_count=9&theme=dark"
   />
-</p>
+</div>
