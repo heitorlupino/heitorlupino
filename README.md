@@ -1,4 +1,5 @@
 <h1 align="center">Olá! Eu sou o Heitor Lupino 👋</h1>
+
 - 💻 Me chamo Heitor Lupino e tenho 18 anos. Conclui o ensino médio na FUNBBE e atualmente estou cursando Ciência da Computação na USC. 
 - 🚀 Apaixonado por tecnologia e desenvolvimento de software, estou sempre buscando aprender e aprimorar minhas habilidades.
 - 📚 Atualmente focado em JavaScript, HTML, CSS e outras tecnologias web.
