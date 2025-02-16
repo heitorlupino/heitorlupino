@@ -4,10 +4,10 @@
 - 👨‍💻 Estudando C#
 - 😄 Pronouns: ele/dele
 
-<div>
+<div style="display: flex; align-items: center; justify-content: center;">
   <a href="https://github.com/heitorlupino">
-  <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api?username=heitorlupino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="180cm" width="480cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorlupino&layout=compact&langs_count=16&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heitorlupino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorlupino&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: incline_block"><br>
