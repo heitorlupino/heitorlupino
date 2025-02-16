@@ -6,8 +6,11 @@
 
 <div style="display: flex; align-items: center; justify-content: center;">
   <a href="https://github.com/heitorlupino">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=heitorlupino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorlupino&layout=compact&langs_count=16&theme=dark"/>
+    <img height="180px" src="https://github-readme-stats.vercel.app/api?username=heitorlupino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/heitorlupino">
+    <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorlupino&layout=compact&langs_count=16&theme=dark"/>
+  </a>
 </div>
 
 <div style="display: incline_block"><br>
