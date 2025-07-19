@@ -1,9 +1,11 @@
 <h1 align="center">Olá! Eu sou o Heitor Lupino 👋</h1>
 
-- 💻 Me chamo Heitor Lupino e tenho 18 anos. Conclui o ensino médio na FUNBBE e atualmente estou cursando Ciência da Computação na <a href="https://unisagrado.edu.br">UNISAGRADO</a>. 
-- 🚀 Apaixonado por tecnologia e desenvolvimento de software, estou sempre buscando aprender e aprimorar minhas habilidades.
-- 📚 Atualmente focado em JavaScript, HTML, CSS e outras tecnologias web.
-- 🔭 Estou atualmente desenvolvendo um projeto para a faculdade relacionado a uma missão solidária.
+- 💻 Tenho 19 anos e sou apaixonado por tecnologia e desenvolvimento de software.
+- 🎓 Conclui o ensino médio na **FUNBBE** e atualmente curso **Ciência da Computação** na <a href="https://unisagrado.edu.br">UNISAGRADO</a>. 
+- 🎯 Apaixonado por tecnologia e desenvolvimento de software, estou sempre em busca de novos aprendizados e desafios que me permitam evoluir tanto técnica quanto pessoalmente.
+- 📚 Atualmente focado em **Java**, **Spring Boot** e tecnologias web modernas.
+- 🛠️ Explorando boas práticas de programação, arquitetura de sistemas e desenvolvimento orientado a objetos.
+- 🚀 Desenvolvendo um projeto acadêmico voltado para uma **missão solidária**, unindo tecnologia e impacto social.
 
 ---
 
