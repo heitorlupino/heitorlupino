@@ -16,7 +16,7 @@
   <img align="center" alt="Heitor-JavaScript" title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>  
   <img align="center" alt="Heitor-HTML" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Heitor-CSS" title="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Heitor=Java" title="JAVA" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Fpt%2Ficons%2Fjava&psig=AOvVaw3XtNiFrP5xg8MaT2fmtHrI&ust=1753026583130000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJDc4I6jyY4DFQAAAAAdAAAAABAE"/>
+  <img align="center" alt="Heitor=Java" title="JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 </div>
 
 ---
