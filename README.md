@@ -5,7 +5,7 @@
 - 🎯 Apaixonado por tecnologia e desenvolvimento de software, estou sempre em busca de novos aprendizados e desafios que me permitam evoluir tanto técnica quanto pessoalmente.
 - 📚 Atualmente focado em **Java**, **Spring Boot** e tecnologias web modernas.
 - 🛠️ Explorando boas práticas de programação, arquitetura de sistemas e desenvolvimento orientado a objetos.
-- 🚀 Desenvolvendo um projeto acadêmico voltado para uma **missão solidária**, unindo tecnologia e impacto social.
+- 🚀 Atualmente desenvolvo um projeto acadêmico com foco em uma missão solidária, unindo tecnologia e impacto social.
 
 ---
 
@@ -36,5 +36,10 @@
     height="180"
   />
 </p>
+
+---
+
+### 🧩 Projetos em destaque
+- 🎮 [Jornada do Bem](https://github.com/heitorlupino/missao-solidaria) — Jogo Flutter voltado para impacto social.
 
 
