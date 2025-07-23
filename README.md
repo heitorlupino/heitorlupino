@@ -22,20 +22,19 @@
 ---
 
 ### 📊 Estatísticas
-<div style="display: flex; align-items: center; justify-content: center;">
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="160px"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=heitorlupino&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=heitorlupino&show_icons=true&theme=dark&include_all_commits=true&count_private=true" 
+    alt="Estatísticas do GitHub de Heitor Lupino" 
+    height="140"
   />
-  
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="160px"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorlupino&layout=compact&langs_count=9&theme=dark"
+  &nbsp;&nbsp;&nbsp;
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorlupino&layout=compact&langs_count=9&theme=dark" 
+    alt="Linguagens mais usadas por Heitor Lupino" 
+    height="180"
   />
-</div>
+</p>
+
+
