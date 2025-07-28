@@ -27,7 +27,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api?username=heitorlupino&show_icons=true&theme=dark&include_all_commits=true&count_private=true" 
     alt="Estatísticas do GitHub de Heitor Lupino" 
-    height="140"
+    height="165"
   />
   &nbsp;&nbsp;&nbsp;
   <img 
