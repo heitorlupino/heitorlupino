@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 Linguagens
-<div style="display: incline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Heitor-Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="Heitor-CSharp" title="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="Heitor-JavaScript" title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>  
@@ -22,20 +22,24 @@
 ---
 
 ### 📊 Estatísticas
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=heitorlupino&show_icons=true&theme=dark&include_all_commits=true&count_private=true" 
-    alt="Estatísticas do GitHub de Heitor Lupino" 
-    height="165"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heitorlupino&layout=compact&langs_count=9&theme=dark" 
-    alt="Linguagens mais usadas por Heitor Lupino" 
-    height="180"
-  />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img 
+        src="https://github-stats-extended.vercel.app/api?username=heitorlupino&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&disable_animations=true" 
+        alt="Estatísticas do GitHub de Heitor Lupino" 
+        width="100%"
+      />
+    </td>
+    <td>
+      <img 
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=heitorlupino&layout=compact&langs_count=9&theme=dark&hide_border=true&bg_color=00000000" 
+        alt="Linguagens mais usadas por Heitor Lupino" 
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
