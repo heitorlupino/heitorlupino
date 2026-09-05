@@ -1,16 +1,14 @@
 <h1 align="center">Olá! Eu sou o Heitor Lupino 👋</h1>
 
-- 💻 Tenho 19 anos e sou apaixonado por tecnologia e desenvolvimento de software.
-- 🎓 Conclui o ensino médio na **FUNBBE** e atualmente curso **Ciência da Computação** na <a href="https://unisagrado.edu.br">UNISAGRADO</a>. 
-- 🎯 Apaixonado por tecnologia e desenvolvimento de software, estou sempre em busca de novos aprendizados e desafios que me permitam evoluir tanto técnica quanto pessoalmente.
-- 📚 Atualmente focado em **Java**, **Spring Boot** e tecnologias web modernas.
-- 🛠️ Explorando boas práticas de programação, arquitetura de sistemas e desenvolvimento orientado a objetos.
-- 🚀 Atualmente desenvolvo um projeto acadêmico com foco em uma missão solidária, unindo tecnologia e impacto social.
+- 🚀 Estudante de Ciência da Computação (<a href="https://unisagrado.edu.br">UNISAGRADO</a>), com base sólida em **Java e desenvolvimento orientado a objetos**.
+- 📈 Atualmente expandindo meus estudos para **Python, Análise de Dados e Inteligência Artificial** — uma área que me interessa bastante e onde estou construindo minha base do zero.
+- 🛠️ Boas práticas de programação e arquitetura de sistemas fazem parte do meu dia a dia de estudos.
+- 🎯 Aberto a oportunidades de **estágio** onde eu possa aprender na prática e crescer com um time.
 
 ---
 
 ### 👨‍💻 Linguagens
-<div style="display: inline_block"><br>
+<div style="display: inline-block"><br>
   <img align="center" alt="Heitor-Python" title="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img align="center" alt="Heitor-CSharp" title="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"/>
   <img align="center" alt="Heitor-JavaScript" title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>  
